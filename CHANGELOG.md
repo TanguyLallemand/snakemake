@@ -1,5 +1,12 @@
 # Changelog
 
+### [7.3.3](https://www.github.com/snakemake/snakemake/compare/v7.3.2...v7.3.3) (2022-03-27)
+
+
+### Documentation
+
+* details on benchmarked results ([64fea09](https://www.github.com/snakemake/snakemake/commit/64fea0921f6a35dbea96435debb114012603ffc2))
+
 ### [7.3.2](https://www.github.com/snakemake/snakemake/compare/v7.3.1...v7.3.2) (2022-03-25)
 
 
